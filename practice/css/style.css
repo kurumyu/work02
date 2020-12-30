@@ -471,12 +471,14 @@ footer {
 .footer-twitter {
   width: 22px;
   height: 22px;
+  padding-left: 4px;
   background-color: pink;
 }
 
 .footer-insta {
   width: 22px;
   height: 22px;
+  padding-left: 4px;
   background-color: pink;
   margin-left: 40px;
 }
@@ -484,6 +486,7 @@ footer {
 .footer-line {
   width: 22px;
   height: 22px;
+  padding-left: 4px;
   background-color: pink;
   margin-left: 40px;
 }
